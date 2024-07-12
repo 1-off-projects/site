@@ -21,7 +21,7 @@ package main
 import "fmt"
 
 func main() {
-fmt.Println("Hello, Python!")
+fmt.Println("Hello, Golang!")
 }
 ```
 mod of multiple discord servers
